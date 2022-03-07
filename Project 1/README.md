@@ -5,7 +5,7 @@
 * [Какой кейс решаем?](https://github.com/VKIlya/SF_projects/tree/main/Project%201/README.md#Какой-кейс-решаем)
 * [Краткая информация о данных](https://github.com/VKIlya/SF_projects/tree/main/Project%201/README.md#Краткая-информация-о-данных)
 * [Этапы работы над проектом](https://github.com/VKIlya/SF_projects/tree/main/Project%201/README.md#Этапы-работы-над-проектом)
-* [Результаты и выводы](https://github.com/VKIlya/SF_projects/tree/main/Project%201/README.md#Результаты-и-выводы)
+* [Результаты и выводы](https://github.com/VKIlya/SF_projects/tree/main/Project%201/README.md#Результаты)
 
 ### **Описание проекта**
 Компьютер сам загадывает число и сам же его отгадывает за определенное количество попыток
@@ -25,3 +25,6 @@
 * Учимся писать хороший код на Python.
 * Учимся работать с IDE.
 * Учимся работать с GitHub.
+
+## Результаты
+Была написана программа, угадывающая число за 5-7 попыток, и загружена на GitHub
